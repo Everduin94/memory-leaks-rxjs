@@ -11,7 +11,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 https://medium.com/@erxk_verduin/angular-rxjs-detecting-memory-leaks-bdd312a070a0
 
 ## App
-
+![Application](buttons.png)
 ### src/app/app.component.ts
 This is where we can toggle all of the component's creation/destruction using a boolean value and the ngIf directive
 
