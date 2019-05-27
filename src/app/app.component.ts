@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+
+  showService = false;
+  showFinite = false;
+  showFromEvent = false;
+  showLargeLeak = false;
+
   title = 'angular-memory-leaks';
 }
